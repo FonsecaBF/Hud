@@ -1,0 +1,16 @@
+<meta>
+	<info author="~[F]onseca" name="Hud" version="0.1"/>
+	<script src="Fonseca_C.lua" type="client" cache="false"/>
+	<script src="Fonseca_S.lua" type="server" cache="false"/>	
+	<file src="files/fundo.png"/>
+	<file src="files/gota.png"/>
+	<file src="files/shield.png"/>
+	<file src="files/fome.png"/>
+	<file src="files/hp.png"/>
+	<file src="files/mic.png"/>
+	<file src="files/fundo2.png"/>
+	<file src="files/fundo3.png"/>	
+	<file src="files/fundo4.png"/>	
+	<file src="files/fundo5.png"/>	
+	<file src="files/fundo7.png"/>	
+</meta>
